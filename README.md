@@ -23,7 +23,7 @@ This project focuses on analyzing and optimizing Instagram's product-led growth 
 ### 4. Data Visualization and Reporting:
   Creation of interactive dashboards to visualize key insights
   
-  Tools: Tableau
+  Tools: snowflake, Python Libraries
 
 ## Getting Started
   ### Prerequisites
